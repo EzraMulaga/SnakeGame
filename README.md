@@ -1,5 +1,9 @@
-# SnakeGame v1.0
+# SnakeGame 
 This project was created with from a tutorial from Bro Code a youtube channel that teaches programming basics and covers basic tutorials.
+
+### Update
+v1.1
+- Added jar and executable file
 
 ### The Objective
 The primary objective of this project is to practice concepts in Java programming using the most basic tools and packages available.
